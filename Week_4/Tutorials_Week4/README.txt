@@ -1,0 +1,3 @@
+Note that there is a mistake in the answer to exercise 3: the parameters used are not those requested. Subsequent semester's TA: modify ex3's answer to use the correct parameters. The result will show that the first pulse does not produce a spike, while the second does: illustrating that a charge imparted over a smaller span of time is a stronger stimulus than the same charge imparted over a larger span
+
+Additionally, students got different results in ex3 depending on whether they opted to use the provided modfiles or hh model.
